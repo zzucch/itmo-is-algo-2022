@@ -1,5 +1,5 @@
 # itmo-is-algo-2022
-### 1 semester:
+## 1 semester:
 
 Lab 1: more like system test
 - A. Последняя цифра
@@ -61,7 +61,7 @@ Lab 7: dp
 - C. Петя делает скриншот (haven't done)
 - D. Петя делает скриншот, но есть нюанс (haven't done)
 
-### 2 semester:
+## 2 semester:
 
 Lab 8: compression, encryption
 - A. Император Микки и его система защиты
